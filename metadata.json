@@ -1,0 +1,6 @@
+{
+  "name": "GrainScan",
+  "description": "Grain size detector with crop type solutions, reference scale calibration, error indicator, disease & pest scaling, nutrient deficiency estimator, multiplot grouping, GPS tagging, and weather overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
